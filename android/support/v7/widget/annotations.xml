@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='android.support.v7.widget.RecyclerView int getChildAdapterPosition(android.view.View)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
